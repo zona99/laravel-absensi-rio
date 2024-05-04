@@ -14,10 +14,6 @@
         <section class="section">
             <div class="section-header">
                 <h1>Profile Perusahaan</h1>
-                <div class="section-header-breadcrumb">
-                    <div class="breadcrumb-item active"><a href="#">Dashboard</a></div>
-                    <div class="breadcrumb-item">Profile Perusahaan</div>
-                </div>
             </div>
             <div class="section-body">
                 <div class="row">
@@ -27,7 +23,7 @@
                 </div>
                 <h2 class="section-title">Profil Perusahaan</h2>
                 <p class="section-lead">
-                    Informasi tentang perusahaan Anda.
+                    Sistem Informasi Absensi Pemerintah Daerah (SIAPA)
                 </p>
 
                 <div class="row mt-sm-4">
